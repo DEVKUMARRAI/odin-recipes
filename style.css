@@ -13,6 +13,8 @@ h1{
     font-family: sans-serif;
     color: rgb(205 99 145);
     font-weight: 700;
+    background-color: white;
+    
 }
 h3{
     text-transform: uppercase;
@@ -35,4 +37,9 @@ ul li a{
 }
 a:hover{
     color: red;
+}
+img{
+    height: auto;
+    width: 300px;
+    margin-left: 88px;
 }
